@@ -100,7 +100,7 @@ streamlit run app.py
   [https://prediksibreastcancerwinconsin.streamlit.app/](https://prediksibreastcancerwinconsin.streamlit.app/)
 
 * 📦 **GitHub Repository**:
-  [https://github.com/Zuzun1ch/psd](https://github.com/Zuzun1ch/psd)
+  [https://github.com/haninhammoud01/breast-cancer-risk-prediction](https://github.com/haninhammoud01/breast-cancer-risk-prediction)
 
 * 📓 **Model Development (Google Colab)**:
   [https://colab.research.google.com/drive/1iTuq6NdzNznLI62a9ZCfrUxx43EYTm1h](https://colab.research.google.com/drive/1iTuq6NdzNznLI62a9ZCfrUxx43EYTm1h)
