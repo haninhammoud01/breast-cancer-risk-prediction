@@ -22,7 +22,8 @@ Dataset yang digunakan adalah *Breast Cancer Wisconsin Original Dataset*, yang b
 
 * **Name**: Breast Cancer Wisconsin Original Dataset
 * **Source**: Kaggle – Breast Cancer Wisconsin Original Dataset
-  [https://www.kaggle.com/datasets/schizzika/breast-cancer-data-winconsin-original/data](https://www.kaggle.com/datasets/schizzika/breast-cancer-data-winconsin-original/data)* **Type**: Medical diagnostic data (numeric features)
+  [https://www.kaggle.com/datasets/schizzika/breast-cancer-data-winconsin-original/data](https://www.kaggle.com/datasets/schizzika/breast-cancer-data-winconsin-original/data)*
+* **Type**: Medical diagnostic data (numeric features)
 
 **Target Classes**:
 
